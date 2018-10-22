@@ -1,0 +1,402 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.container{
+    width: 80%;
+}
+
+h1 {
+    font-size: 2.2em;
+    line-height: 5%;
+}
+
+h5 {
+    font-size: 1.5em;
+}
+
+img{
+    width: 100%;
+}
+
+/*
+    top
+ */
+
+.top{
+    height: 80px;
+}
+
+.logo img{
+    padding: 8px 0;
+}
+
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+    font-size: 1.8em;
+    height: 56px;
+    line-height: 70px;
+    color: #032a48;
+}
+
+.email{
+    color: #032a48;
+}
+
+.phone{
+    color: #032a48;
+}
+
+/*
+    menu
+ */
+
+nav ul a {
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    font-size: 0.9em;
+    color: #fff;
+    display: block;
+    padding: 0 40px 0 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+nav .nav-search{
+    height: 64px !important;
+}
+
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea{
+    font-size: 0.9em;
+}
+
+nav{
+    background-color: #032a48 !important;
+}
+
+
+/*
+    office
+ */
+
+.title-office{
+    font-size: 2em;
+    text-align: center;
+    font-weight: 400;
+    color: #032a48;
+}
+
+.img-office img{
+    width: 100%;
+    border-radius: 4px;
+}
+
+.content-office{
+    font-size: 1.3em;
+    line-height: 1.4em;
+    font-weight: 300;
+}
+
+
+/*
+    posts index
+ */
+
+.pub{
+    width: 100%;
+    height: 580px;
+    background-color: #5a5a5a05;
+    border-top: 1px solid #00000012;
+    border-bottom: 1px solid #00000012;
+}
+
+.light-blue-text {
+    color: #032a48 !important;
+}
+
+.card {
+    position: relative;
+    margin: 0.5em 1.2em 1em 0;
+}
+
+.card .card-content {
+    padding: 14px;
+    border-radius: 0 0 2px 2px;
+}
+
+.card .card-action {
+    background-color: inherit;
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+    position: relative;
+    padding: 10px 14px;
+}
+
+.title-posts-index{
+    font-weight: 500;
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.icon-date{
+    font-size: 0.9em;
+    color: #032a48;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+    color: #032a48;
+    margin-right: 24px;
+    -webkit-transition: color .3s ease;
+    transition: color .3s ease;
+    text-transform: inherit;
+}
+
+.card .card-action a:hover{
+    color: black;
+}
+
+/*
+    footer
+ */
+
+.page-footer{
+    background-color: #032a48;
+}
+
+.page-footer{
+    font-weight: 300;
+}
+
+/*
+    category
+ */
+
+.publication-title{
+    font-weight: 200;
+}
+
+.publication-line{
+    border: 2px solid #032a48;
+    border-radius: 4px;
+}
+
+.publication-sidebar{
+    font-weight: 200;
+    font-size: 1.5em;
+}
+
+.margin-top-category{
+    margin-top: 15px;
+}
+
+.pagination li.active {
+    background-color: #032a48;
+}
+
+ol{
+    padding: 1px 0 3px 40px;
+    font-size: 1em;
+    font-weight: 500;
+    color: #032a48;
+}
+
+ol li{
+    margin: 20px 0;
+}
+
+.line-ol-li{
+    margin-top: 5px;
+    border: 1px solid #5a5a5a2e;
+    width: 90%;
+}
+
+/*
+    contato
+ */
+
+.title-contato{
+    font-size: 2.2em;
+}
+
+.subtitle-contato{
+    font-size: 1.2em;
+}
+
+.inf-contact{
+    padding: 5px 30px;
+    margin-top: 25px;
+}
+
+.inf-contact-title{
+    font-size: 1.4em;
+    font-weight: 500;
+    color: black;
+}
+
+.inf-contact-content{
+    font-size: 1.1em;
+    font-weight: 300;
+    color: #5d5a5a;
+    margin-bottom: 10%;
+}
+
+input:not([type]):focus:not([readonly]) + label, input[type=text]:not(.browser-default):focus:not([readonly]) + label, input[type=password]:not(.browser-default):focus:not([readonly]) + label, input[type=email]:not(.browser-default):focus:not([readonly]) + label, input[type=url]:not(.browser-default):focus:not([readonly]) + label, input[type=time]:not(.browser-default):focus:not([readonly]) + label, input[type=date]:not(.browser-default):focus:not([readonly]) + label, input[type=datetime]:not(.browser-default):focus:not([readonly]) + label, input[type=datetime-local]:not(.browser-default):focus:not([readonly]) + label, input[type=tel]:not(.browser-default):focus:not([readonly]) + label, input[type=number]:not(.browser-default):focus:not([readonly]) + label, input[type=search]:not(.browser-default):focus:not([readonly]) + label, textarea.materialize-textarea:focus:not([readonly]) + label{
+    color: #b5abab;
+}
+
+input.valid:not([type]), input.valid:not([type]):focus, input[type=text].valid:not(.browser-default), input[type=text].valid:not(.browser-default):focus, input[type=password].valid:not(.browser-default), input[type=password].valid:not(.browser-default):focus, input[type=email].valid:not(.browser-default), input[type=email].valid:not(.browser-default):focus, input[type=url].valid:not(.browser-default), input[type=url].valid:not(.browser-default):focus, input[type=time].valid:not(.browser-default), input[type=time].valid:not(.browser-default):focus, input[type=date].valid:not(.browser-default), input[type=date].valid:not(.browser-default):focus, input[type=datetime].valid:not(.browser-default), input[type=datetime].valid:not(.browser-default):focus, input[type=datetime-local].valid:not(.browser-default), input[type=datetime-local].valid:not(.browser-default):focus, input[type=tel].valid:not(.browser-default), input[type=tel].valid:not(.browser-default):focus, input[type=number].valid:not(.browser-default), input[type=number].valid:not(.browser-default):focus, input[type=search].valid:not(.browser-default), input[type=search].valid:not(.browser-default):focus, textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown {
+    border-bottom: 1px solid #b5abab;
+    -webkit-box-shadow: 0 1px 0 0 #b5abab;
+    box-shadow: 0 1px 0 0 #b5abab;
+}
+
+.validate{
+    border-bottom: 1px solid #b5abab !important;
+    box-shadow: 0 1px 0 0 #b5abab !important;
+}
+
+textarea{
+    border-bottom: 1px solid #b5abab !important;
+    box-shadow: 0 1px 0 0 #b5abab !important;
+}
+
+.seta{
+    margin-left: 5px !important;
+}
+
+.blue-grey {
+    background-color: #032a48 !important;
+}
+
+/*
+    single
+ */
+
+.title-single{
+    font-size: 2.2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.img-single img{
+
+}
+
+.content{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.btn, .btn-large, .btn-small {
+    text-decoration: none;
+    color: #fff;
+    background-color: #032a48;
+    text-align: center;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+}
+
+.btn-small:hover{
+    background-color: black;
+}
+
+.tittle-leia-tambem{
+    font-size: 1em;
+    font-weight: 500;
+    color: #032a48;
+}
+
+/*
+    service
+ */
+
+.collapsible{
+    margin-top: 25px;
+}
+
+/*
+  mobile
+ */
+@media only screen and (max-width: 600px) {
+
+    .container{
+        width: 90%;
+    }
+
+    nav{
+        height: 80px;
+    }
+
+    h1{
+        font-size: 2em;
+    }
+
+    .nav-search{
+        display: none;
+    }
+
+    .indicators{
+        margin-bottom: -20px !important;
+    }
+
+    .content-office{
+        margin-top: -26px;
+    }
+
+    .pub {
+        width: 100%;
+        height: 1150px;
+    }
+
+    .btn-large {
+        height: 45px;
+        line-height: 45px;
+        font-size: 1em;
+        padding: 0 28px;
+    }
+
+    .light {
+        font-weight: 300;
+        font-size: 1.2em;
+    }
+
+    .user-view-cap{
+        width: 100%;
+        height: 100px;
+        background-color: #5a5a5a08;
+        padding: 5% 30% 0 5%;
+        border-bottom: 1px solid #cccccc8a;
+    }
+
+    .sidenav li > a{
+        font-weight: 400;
+    }
+
+    .publication-sidebar{
+        text-align: center;
+    }
+
+    .img-office{
+        text-align: center;
+    }
+
+    .comments{
+        display: none;
+    }
+}
