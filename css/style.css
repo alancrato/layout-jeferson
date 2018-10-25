@@ -52,10 +52,13 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 
 .email{
     color: #032a48;
+    font-size: 1.2em;
+    font-weight: 400;
 }
 
 .phone{
     color: #032a48;
+    font-weight: 400;
 }
 
 /*
