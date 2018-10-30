@@ -35,11 +35,12 @@ img{
  */
 
 .top{
-    height: 80px;
+    height: 96px;
 }
 
 .logo img{
-    padding: 8px 0;
+    padding: 12px 0;
+    margin-top: -42px;
 }
 
 nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
@@ -50,15 +51,29 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
     color: #032a48;
 }
 
+
 .email{
     color: #032a48;
-    font-size: 1.2em;
-    font-weight: 400;
+    font-weight: 500;
+}
+
+.text-email{
+    color: #032a48;
+    font-weight: 300;
+    margin-top: -11%;
+    margin-left: 30%;
 }
 
 .phone{
     color: #032a48;
-    font-weight: 400;
+    font-weight: 500;
+}
+
+.text-phone{
+    color: #032a48;
+    font-weight: 300;
+    margin-top: -11%;
+    margin-left: 54%;
 }
 
 /*

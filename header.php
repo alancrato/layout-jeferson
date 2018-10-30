@@ -13,38 +13,45 @@
 </head>
 <body>
 
+
 <nav class="white top hide-on-med-and-down" role="navigation">
     <div class="container">
         <div class="row">
-            <div class="col s12 m4">
+
+            <div class="col s4">
                 <a id="logo-container" href="index.php" class="brand-logo logo">
-                    <img src="img/logo.png"/>
+                    <img src="img/logo4.png"/>
                 </a>
             </div>
-            <div class="col s12 m4">
-                <i class="material-icons left">
-                    mail
-                </i>
-                <div class="email">
+
+            <div class="col s4">
+                <div class="icon left">
+                    <i class="material-icons left">
+                        mail
+                    </i>
+                </div>
+                <div class="email left">
                     j.alvespinheiro@hotmail.com
                 </div>
-            </div>
-            <div class="col s12 m2">
-                <i class="material-icons left">
-                    local_phone
-                </i>
-                <div class="phone">
-                    (88) 3523-2059
+                <div class="text-email left">
+                    Mande-nos um e-mail
                 </div>
             </div>
-            <div class="col s12 m2">
-                <i class="material-icons left">
-                    local_phone
-                </i>
-                <div class="phone">
-                    (88) 9 9676-0202
+
+            <div class="col s4">
+                <div class="icon left">
+                    <i class="material-icons left">
+                        local_phone
+                    </i>
+                </div>
+                <div class="phone left">
+                    (88) 3523-2059 | (88) 9 9676-0202
+                </div>
+                <div class="text-phone left">
+                    Ligue para nós
                 </div>
             </div>
+
         </div>
     </div>
 </nav>
