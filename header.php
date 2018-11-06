@@ -93,7 +93,7 @@
             <ul id="nav-mobile" class="sidenav">
                 <li>
                     <div class="user-view-cap">
-                        <img src="img/logo.png"/>
+                        <img src="img/logo4.png"/>
                     </div>
                 </li>
                 <li><a href="index.php">Início</a></li>
@@ -107,7 +107,7 @@
         </div>
         <div class="col s8">
             <a id="logo-container" href="index.php" class="brand-logo logo">
-                <img src="img/logo.png"/>
+                <img src="img/logo4.png"/>
             </a>
         </div>
         <div class="col s2">
