@@ -7,17 +7,17 @@
     <div class="container">
         <h1 class="header center darken-4-text">Escritório</h1>
         <div class="row center">
-            <h5 class="header col s12 light">Conheça a nossa história e um pouco do nosso ambiente.</h5>
+            <h5 class="header col s12 light">Conheça a nossa história e um pouco dos nossos valores.</h5>
         </div>
         <div class="row">
             <div class="col m1"></div>
             <div class="col s12 m5">
                 <div class="content-office text">
                     <p>
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                        Atuante na advocacia tanto de pessoas físicas quanto jurídicas, a ALVES PINHEIRO Advocacia é um escritório que preza pelo atendimento personalizado, direto e individualizado, proporcionando a seus clientes uma compreensão real das possibilidades e probabilidades da demanda a ser atendida.
                     </p>
                     <p>
-                        Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                        Procuramos sempre aliar qualidade técnica, criatividade, ética e combatividade, perseguindo, ainda, alto padrão de eficiência e profissionalismo na resolução das questões jurídicas...
                     </p>
                 </div>
             </div>
@@ -40,7 +40,7 @@
         <div class="section">
             <h1 class="header center white-text">Áreas de Atuação</h1>
             <div class="row center">
-                <h5 class="header col s12 light white-text">Escritório especializado em direito tributário e cível.</h5>
+                <h5 class="header col s12 light white-text">Escritório especializado em direito cível, empresarial e tributário.</h5>
             </div>
             <!--   Icon Section   -->
             <div class="row">
@@ -53,7 +53,9 @@
                         </h2>-->
                         <h5 class="center white-text">Civil</h5>
 
-                        <p class="light white-text">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+                        <p class="light white-text center">
+                            Atuação em processos administrativos e judiciais, perante todos os Juízos e Tribunais, envolvendo matérias relacionadas ao Direito Civil, Comercial/Empresarial
+                        </p>
                     </div>
                 </div>
 
@@ -64,9 +66,11 @@
                                 how_to_reg
                             </i>
                         </h2>-->
-                        <h5 class="center white-text">Tributária</h5>
+                        <h5 class="center white-text">Empresarial</h5>
 
-                        <p class="light white-text">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+                        <p class="light white-text center">
+                            Em Geral: Pessoas, Coisas e Bens, Fato e Ato Jurídico, Negócio Jurídico, obrigações e Contratos, Direito das Coisas, Obra Intelectual.
+                        </p>
                     </div>
                 </div>
 
@@ -77,9 +81,11 @@
                                 event
                             </i>
                         </h2>-->
-                        <h5 class="center white-text">Acessoria</h5>
+                        <h5 class="center white-text">Tributária</h5>
 
-                        <p class="light white-text">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+                        <p class="light white-text center">
+                            Consultoria sobre temas tributários, elaboração de pareceres acerca da constitucionalidade de leis ou atos normativos tributários.
+                        </p>
                     </div>
                 </div>
             </div>

@@ -10,29 +10,20 @@
         <div class="col s12 m12">
             <h1 class="header center darken-4-text">Escritório</h1>
             <div class="row center">
-                <h5 class="header col s12 light">Conheça a nossa história e um pouco do nosso ambiente.</h5>
+                <h5 class="header col s12 light">Conheça a nossa história e os nossos valores.</h5>
             </div>
         </div>
 
         <div class="col s12 m8">
             <div class="content-office text">
                 <p>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                    Atuante na advocacia tanto de pessoas físicas quanto jurídicas, a ALVES PINHEIRO Advocacia é um escritório que preza pelo atendimento personalizado, direto e individualizado, proporcionando a seus clientes uma compreensão real das possibilidades e probabilidades da demanda a ser atendida.
                 </p>
                 <p>
-                    Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                    Procuramos sempre aliar qualidade técnica, criatividade, ética e combatividade, perseguindo, ainda, alto padrão de eficiência e profissionalismo na resolução das questões jurídicas e práticas e no conhecimento e acompanhamento pelo cliente de todas as circunstâncias do caso, sem possuir, contudo, qualquer burocracia.
                 </p>
                 <p>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
-                </p>
-                <p>
-                    Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
-                </p>
-                <p>
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
-                </p>
-                <p>
-                    Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                    Situado na Região Metropolitana do Cariri–CE, com escritórios em Crato e Juazeiro do Norte, tem facilidade em atuar em todo o território nordestino e nos estados de São Paulo, Minas Gerais e Brasília-DF, seja por meio de seus profissionais, seja por intermédio de associações com escritórios e profissionais gabaritados.
                 </p>
             </div>
         </div>

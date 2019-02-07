@@ -4,7 +4,6 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
   <title>Jefferson Alvez Pinheiro - Advocacia Cívil e Tributária</title>
-
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -18,40 +17,32 @@
     <div class="container">
         <div class="row">
 
-            <div class="col s4">
+            <div class="col s3">
                 <a id="logo-container" href="index.php" class="brand-logo logo">
                     <img src="img/logo4.png"/>
                 </a>
             </div>
 
             <div class="col s4">
-                <div class="icon left">
-                    <i class="material-icons left">
-                        mail
-                    </i>
-                </div>
-                <div class="email left">
-                    j.alvespinheiro@hotmail.com
-                </div>
-                <div class="text-email left">
-                    Mande-nos um e-mail
+                <div class="font-contacts right">
+                    Contatos: E-mail: j.alvespinheiro@hotmail.com
                 </div>
             </div>
 
-            <div class="col s4">
-                <div class="icon left">
-                    <i class="material-icons left">
-                        local_phone
-                    </i>
-                </div>
-                <div class="phone left">
-                    (88) 3523-2059 | (88) 9 9676-0202
-                </div>
-                <div class="text-phone left">
-                    Ligue para nós
+            <div class="col s5">
+                <div class="font-contacts">
+                    <div class="row">
+                        <div class="col s6">
+                            Telefones: (88) 3523-2059
+                        </div>
+                        <div class="col s6">
+                            <div class="wp left">
+                                <img src="img/whatsapp.png"/>
+                            </div> (88) 9 9676-0202
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
     </div>
 </nav>
@@ -64,9 +55,9 @@
                 <ul class="hide-on-med-and-down">
                     <li><a href="index.php">Início</a></li>
                     <li><a href="about.php">Escritório</a></li>
-                    <li><a href="service.php">Serviços</a></li>
+                    <li><a href="service.php">Áreas de Atuação</a></li>
                     <li><a href="publication.php">Publicações</a></li>
-                    <li><a href="events.php">Eventos</a></li>
+                    <li><a href="events.php">Links</a></li>
                     <li><a href="contact.php">Contato</a></li>
                 </ul>
             </div>
@@ -98,9 +89,9 @@
                 </li>
                 <li><a href="index.php">Início</a></li>
                 <li><a href="about.php">Escritório</a></li>
-                <li><a href="service.php">Serviços</a></li>
+                <li><a href="service.php">Áreas de Atuação</a></li>
                 <li><a href="publication.php">Publicações</a></li>
-                <li><a href="events.php">Eventos</a></li>
+                <li><a href="events.php">Links</a></li>
                 <li><a href="contact.php">Contato</a></li>
             </ul>
             <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
