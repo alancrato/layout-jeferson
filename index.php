@@ -46,13 +46,7 @@
             <div class="row">
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <!--<h2 class="center white-text">
-                            <i class="material-icons">
-                                account_balance
-                            </i>
-                        </h2>-->
                         <h5 class="center white-text">Civil</h5>
-
                         <p class="light white-text center">
                             Atuação em processos administrativos e judiciais, perante todos os Juízos e Tribunais, envolvendo matérias relacionadas ao Direito Civil, Comercial/Empresarial
                         </p>
@@ -61,13 +55,7 @@
 
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <!--<h2 class="center white-text">
-                            <i class="material-icons">
-                                how_to_reg
-                            </i>
-                        </h2>-->
                         <h5 class="center white-text">Empresarial</h5>
-
                         <p class="light white-text center">
                             Em Geral: Pessoas, Coisas e Bens, Fato e Ato Jurídico, Negócio Jurídico, obrigações e Contratos, Direito das Coisas, Obra Intelectual.
                         </p>
@@ -76,20 +64,13 @@
 
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <!--<h2 class="center white-text">
-                            <i class="material-icons">
-                                event
-                            </i>
-                        </h2>-->
                         <h5 class="center white-text">Tributária</h5>
-
                         <p class="light white-text center">
                             Consultoria sobre temas tributários, elaboração de pareceres acerca da constitucionalidade de leis ou atos normativos tributários.
                         </p>
                     </div>
                 </div>
             </div>
-
         </div>
         <br>
     </div>
